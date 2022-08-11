@@ -1,6 +1,6 @@
 # Action Camera Manager Plugin
 
-![Cover]()
+<img src="Image/Cover.png" height="350" title="Cover">
 
 ## About
 
